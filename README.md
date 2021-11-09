@@ -1,1 +1,1 @@
-# Gitpracticeprojects
+# pythonpracticeprojects
