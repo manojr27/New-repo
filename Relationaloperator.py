@@ -1,18 +1,29 @@
-a=5
-b=10
+a=10
+b=5
 
 print(a>b)
 print(a<b)
 print(a>=b)
 print(a<=b)
+#print(A=B)
 
-str1="Ghost"
-str2="Protocol"
+print("--------------")
+print("Strings")
+
+str1="Manoj"
+str2="Besent"
+str3="learn"
+str4="Tech"
+
+
 
 print("a>b", a>b)
 print("a<b", a<b)
 print("a>=b", a>=b)
 print("a<=b", a<=b)
+
+print("----------------")
+print("Boolian")
 
 print(True>True)
 print(True>False)
@@ -20,10 +31,10 @@ print(False>True)
 print(True==True)
 print(False==False)
 
+print("--------------------------")
 
-
-if(a>b):
-   print("a is greater than b")
-else:
- print("a is lesssr than b")
+    if(a>b):
+       print("a is greater than b")
+    else:
+     print("a is lesser than b")
 

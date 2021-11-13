@@ -1,25 +1,30 @@
-a=5
-b=25
-
-print(a==b)
-print(a!=b)
 
 
-a==b
-print(a==b)
+10==20
+print(10==20)
 
-print("Decimal/FLoat")
+print("---------------------")
 
-print(20.5==20.5)
+print("Decimal/Float")
 
-str1="Biryani"
-str2="Biryani1"
-print("Biryani"=="Biryani1")
-print("Biryani"!="Biryani1")
+10.2==10.2
+print(10.2==10.2)
 
+print("----------------------")
 
-a=5
-b="Chicken"
+print("Strings")
+
+str1="Manoj"
+str2="Manoj"
+print("Manoj"=="Manoj")
+print("Manoj"!="Manoj")
+
+print("----------------------")
+
+print("Int and String")
+
+a=10
+b="sunshine"
 
 print(a==b)
 print(a!=b)
